@@ -7,9 +7,11 @@ import random
 from pandas.io.json import json_normalize
 
 # ITEM_ID = "546408734932"
-ITEM_ID = "558185566672"
-ITEM_ID = "558517626411" #Vapromax
-ITEM_ID = "39356129215" #关门神器
+# ITEM_ID = "558185566672"
+ITEM_ID = "558517626411"  # Vapromax
+
+
+# ITEM_ID = "39356129215" #关门神器
 
 
 # Read Tmall Rate Comment

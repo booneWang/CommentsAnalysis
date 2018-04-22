@@ -5,7 +5,7 @@ import pandas as pd
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("39356129215.csv", index_col=0)
+df = pd.read_csv("558517626411.csv", index_col=0)
 str = ""
 
 comments = df[df["rateContent"] != "此用户没有填写评论!"]["rateContent"]
